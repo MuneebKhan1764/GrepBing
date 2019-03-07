@@ -1,0 +1,49 @@
+header {
+  text-align: center;
+  background-color: #E8E5DC;
+
+}
+footer{
+  text-shadow:13px;
+  text-align: center;
+  background-color: #E8E5DC;
+}
+#myheading{
+  background-color: pink;
+}
+/* body {
+  /* background-color: #A09357; */
+  background-image: url('../photos/bing11.png');
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  width: 90%;
+  margin: auto;
+} */
+/* h2 {
+  text-decoration: line-through;
+} */
+/* .logo img{
+  height:40%;
+  width: 100px;
+  margin: 3px;
+  top: 30%;
+
+} */
+
+p {
+  /* color: green; */
+  border: solid 2px #000;
+  padding: 6px;
+  /* margin-left: 50px; */
+  /* margin-right: 50px; */
+   border-left-style: solid;
+  border-right-style: dashed;
+  border-left-width: 2px;
+  border-left-color: #000;
+  border-right-color: yellow; */
+  border-radius: 10px;
+  /* width: 80%;  */
+  text-align: justify;
+
+}
